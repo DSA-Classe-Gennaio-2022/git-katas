@@ -1,7 +1,7 @@
 ---
 maintainer: randomsort
 ---
-# Git Katas
+# Git Katas Claudio
 
 ## Quick Start
 
